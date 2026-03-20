@@ -1,6 +1,12 @@
 # Ticket Booking System Backend
 
-Express and Prisma backend for user authentication, event management, seat locking, and ticket booking flows.
+HTTP API for user authentication, event management, Redis-backed seat locking, and ticket booking workflows.
+
+[![Repository](https://img.shields.io/badge/repo-akshxdevs%2Fticket--booking--system--backend-181717?logo=github)](https://github.com/akshxdevs/ticket-booking-system-backend)
+![TypeScript](https://img.shields.io/badge/TypeScript-codebase-3178C6?logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4.21.2-000000?logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-6.3.1-2D3748?logo=prisma)
+![License](https://img.shields.io/badge/License-ISC-blue)
 
 ## Overview
 
